@@ -12,7 +12,7 @@ This repo documents my learning journey: notes, projects, CTF writeups, and repo
 - Land an internship → entry-level ethical hacking role
 
 ## 📂 Structure
-- **01-Learning-Notes/** — concise study notes & cheat sheets  
+- **01-Learning-Notes/** — concise study roadmap, small notes & cheat sheets  
 - **02-Projects/** — security tools & scripts I built  
 - **03-CTF-Writeups/** — TryHackMe & HackTheBox writeups  
 - **04-Reports/** — professional-style pentest reports (lab environments)  
